@@ -24,6 +24,7 @@ def merge_sort(arr):
             arr[k] = right[z]
             z = z + 1
             k = k + 1
+        import pdb; pdb.set_trace()
 
 arr = [54,24,34,56,77]
 merge_sort(arr)
