@@ -26,4 +26,6 @@ Click on the @icn-camera icon to take a screen shot.
 :calling:
 :email:
 :house:
-![](icons/windows-media-audio.png)
+![](icons/skype.png)
+![](icons/linkedin.png)
+![](icons/github.png)
