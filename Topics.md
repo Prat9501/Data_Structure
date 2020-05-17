@@ -1,4 +1,4 @@
-## Prateek Gupta &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](icons/skype-32.png) ![njwknwnvk](jwhfjhwej)
+## Prateek Gupta &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](icons/skype-32.png) [njwknwnvk](jwhfjhwej)
 
 
 
