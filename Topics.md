@@ -26,4 +26,4 @@ Click on the @icn-camera icon to take a screen shot.
 :calling:
 :email:
 :house:
-![](icons/GitHub-Mark-120px-plus.png)
+![](icons/github-logo.svg)
