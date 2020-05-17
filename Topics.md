@@ -23,3 +23,7 @@ This is [an example] [id] reference-style link.
 
 Click on the @icn-camera icon to take a screen shot.
 :sleeping:
+:calling:
+:email:
+:house:
+![](icons/GitHub-Mark-120px-plus.png)
