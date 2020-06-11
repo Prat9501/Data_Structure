@@ -1,13 +1,12 @@
 from itertools import combinations
 class Solution:
-    def threeSum(self, nums):
+    def fourSum(self, nums, target):
         result = []
-        # nums = list(set(nums))
-        pairs = combinations(nums, 3)
+        pairs = combinations(nums, 4)
         for pair in pairs:
             pair = sorted(pair)
-            if sum(pair) == 0 and pair not in result:
+            if sum(pair) == target and pair not in result:
                 result.append(pair)
         return result
 
-# 270/313 test cases passed
+# 240/282 test cases passed 
