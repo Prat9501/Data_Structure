@@ -12,7 +12,7 @@
 # It doesn't matter what values are set beyond the returned length.
 
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
+    def removeDuplicates(self, nums):
         # dup = []
         # for num in nums:
         #     if num not in dup:
